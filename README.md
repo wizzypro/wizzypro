@@ -30,7 +30,7 @@
 ## 🌱 About Me
 
 - 🔭 I’m a **Senior Software Engineer and CEO** at [Plusky IT Solutions LLC](https://www.pluskyitsolutions.com)  
-- 💻 Passionate about **Full-Stack Web Development** (React, Next.js, Node.js), **Shopify & WordPress**  
+- 💻 Passionate about **Full-Stack Web Development** (PHP, RoR, React, Next.js, Node.js), **Shopify & WordPress**  
 - 📈 Crypto trader & chart analyst (RSI, OBV, ATR) on Binance  
 - 🐶 Proud owner of a Cane Corso puppy—ask me about training!  
 - 🎓 MSc in Information Technology 
