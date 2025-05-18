@@ -34,7 +34,7 @@
 - 📈 Crypto trader & chart analyst (RSI, OBV, ATR) on Binance  
 - 🐶 Proud owner of a Cane Corso puppy—ask me about training!  
 - 🎓 MSc in Information Technology 
-- 📫 Reach me at [info@paulanigbo.com] or connect on [LinkedIn](https://linkedin.com/in/plusky)
+- 📫 Reach me at [via email](mailto:info@paulanigbo.com) or connect on [LinkedIn](https://linkedin.com/in/plusky)
 
 ---
 
